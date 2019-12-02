@@ -9,10 +9,10 @@ Read All Track Formats Credit cards
 
 # Using
 
-git clone https://github.com/Liosion/read_track_credit_card/
-cd read_track_credit_card
-chmod +x scan.sh
-./scan.sh
+git clone https://github.com/Liosion/read_track_credit_card/</br>
+cd read_track_credit_card</br>
+chmod +x scan.sh</br>
+./scan.sh</br>
 
 
 # Edited By @LiosionWEB
