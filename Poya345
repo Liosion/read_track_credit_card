@@ -1,0 +1,4 @@
+git clone https://github.com/Liosion/read_track_credit_card/
+cd read_track_credit_card
+chmod +x scan.sh
+bash scan.sh
